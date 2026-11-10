@@ -1,5 +1,4 @@
 package folhapagamento;
-
 import java.util.ArrayList;
 import java.util.Scanner;
 

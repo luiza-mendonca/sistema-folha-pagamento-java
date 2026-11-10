@@ -1,5 +1,4 @@
 package folhapagamento;
-
 public class Colaborador {
     private static int proximaMatricula = 1;
     private final int matricula;
